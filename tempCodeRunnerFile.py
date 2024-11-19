@@ -1,0 +1,2 @@
+
+    rate = engine.getProper
